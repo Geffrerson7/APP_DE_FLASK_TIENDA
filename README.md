@@ -1,2 +1,2 @@
-# APP_DE_FLASK_TIENDA
-This project is a CRUD application using flask and mysql using SQLAlchemy
+# FLASK_APP_POKEMON
+Es una aplicación que extrae los datos de los personajes de la API "Pokemon".
