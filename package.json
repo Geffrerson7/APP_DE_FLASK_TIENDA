@@ -1,0 +1,28 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geffrerson7/twitter-bot.git"
+  },
+  "keywords": [
+    "node",
+    "twitter"
+  ],
+  "author": "Gefferson Casasola",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "twitter-api-v2": "^1.14.0"
+  },
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Geffrerson7/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/Geffrerson7/twitter-bot#readme"
+}
